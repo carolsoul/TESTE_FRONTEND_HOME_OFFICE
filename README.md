@@ -7,9 +7,9 @@ Este projeto é uma página web interativa chamada FITCLUB. O site apresenta ani
 - [Como Executar](#como-executar)
 
 ## Funcionalidades
-**Animação de Seções**: As seções do site animam conforme o usuário faz o scroll, proporcionando uma experiência visual dinâmica.
-**Animação de Botões**: Os botões apresentam uma animação ao serem clicados, destacando as interações do usuário.
-**Responsividade**: Layout otimizado para diferentes dispositivos (desktop, tablet, e mobile).
+- **Animação de Seções**: As seções do site animam conforme o usuário faz o scroll, proporcionando uma experiência visual dinâmica.
+- **Animação de Botões**: Os botões apresentam uma animação ao serem clicados, destacando as interações do usuário.
+- **Responsividade**: Layout otimizado para diferentes dispositivos (desktop, tablet, e mobile).
 
 ## Tecnologias Utilizadas
 - **HTML5**: Estruturação do conteúdo da página.
