@@ -1,6 +1,6 @@
 # FITCLUB Website
 
-Este projeto é uma página web interativa chamada FITCLUB. O site apresenta animações e transições que melhoram a experiência do usuário. Abaixo você encontra informações sobre o projeto, como instalar, configurar e usá-lo.
+Este projeto é uma página web interativa chamada FITCLUB. O site apresenta animações e transições que melhoram a experiência do usuário. Abaixo você encontra informações sobre o projeto, como instalar e usá-lo.
 
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
