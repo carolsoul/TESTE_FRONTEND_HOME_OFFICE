@@ -425,8 +425,11 @@ hr{
     padding: 5px;
     font-size: 1.5rem;
     cursor: pointer;
-    height: 45px;
-    width: 45px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .arrow-left:hover, .arrow-right:hover{
     color: #f9ac54;
@@ -639,6 +642,9 @@ section.fade-in {
     .class_2{
         top: 100px;
         left: 36%;
+    }
+    .clssses h2{
+        margin-top: 50px;
     }
     .classes_text{
         margin-top: 50px;
